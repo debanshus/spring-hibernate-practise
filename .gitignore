@@ -1,0 +1,12 @@
+#Netbeans#
+nb-configuration.xml
+
+#Eclipse#
+.classpath
+.settings
+
+#IntelliJ#
+.idea
+
+#Build#
+target
